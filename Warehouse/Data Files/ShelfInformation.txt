@@ -1,0 +1,55 @@
+Category 1, Cat1_1, 2 Tier Large Large Shelf
+Category 1, Cat1_2, 2 Tier Large Large Shelf
+Category 1, Cat1_3, 2 Tier Large Large Shelf
+Category 1, Cat1_4, 2 Tier Large Large Shelf
+Category 1, Cat1_1, 2 Tier Large Large Shelf
+Category 1, Cat1_2, 2 Tier Large Large Shelf
+Category 1, Cat1_3, 2 Tier Large Large Shelf
+Category 1, Cat1_4, 2 Tier Large Large Shelf
+Category 1, Cat1_1, 2 Tier Large Large Shelf
+Category 1, Cat1_2, 2 Tier Large Large Shelf
+Category 1, Cat1_3, 2 Tier Large Large Shelf
+Category 1, Cat1_4, 2 Tier Large Large Shelf
+Category 1, Cat1_1, 2 Tier Large Large Shelf
+Category 1, Cat1_2, 2 Tier Large Large Shelf
+Category 1, Cat1_3, 2 Tier Large Large Shelf
+Category 1, Cat1_4, 2 Tier Large Large Shelf
+Category 2, 3 Teir Medium Shelf
+Category 2, 3 Teir Medium Shelf
+Category 2, 3 Teir Medium Shelf
+Category 2, 3 Teir Medium Shelf
+Category 2, 3 Teir Medium Shelf
+Category 2, 3 Teir Medium Shelf
+Category 2, 3 Teir Medium Shelf
+Category 2, 3 Teir Medium Shelf
+Category 2, 3 Teir Medium Shelf
+Category 3, 3 Teir Medium Shelf - Hazardous Items
+Category 3, 3 Teir Medium Shelf - Hazardous Items
+Category 3, 3 Teir Medium Shelf - Hazardous Items
+Category 3, 3 Teir Medium Shelf - Hazardous Items
+Category 3, 3 Teir Medium Shelf - Hazardous Items
+Category 3, 3 Teir Medium Shelf
+Category 4, 5 Tier Small Shelf 
+Category 4, 5 Tier Small Shelf
+Category 4, 5 Tier Small Shelf 
+Category 4, 5 Tier Small Shelf
+Category 4, 5 Tier Small Shelf 
+Category 4, 5 Tier Small Shelf
+Category 4, 5 Tier Small Shelf 
+Category 4, 5 Tier Small Shelf
+Category 4, 5 Tier Small Shelf 
+Category 4, 5 Tier Small Shelf
+Category 4, 5 Tier Small Shelf 
+Category 4, 5 Tier Small Shelf
+Category 4, 5 Tier Small Shelf 
+Category 4, 5 Tier Small Shelf
+Category 4, 5 Tier Small Shelf 
+Category 4, 5 Tier Small Shelf
+Category 4, 5 Tier Small Shelf 
+Category 4, 5 Tier Small Shelf
+Category 5, Caged 4 Tier Small Shelf -High Value
+Category 5, Caged 4 Tier Small Shelf -High Value
+Category 5, Caged 4 Tier Small Shelf -High Value
+Category 5, Caged 4 Tier Small Shelf -High Value
+Category 5, Caged 4 Tier Small Shelf -High Value
+Category 5, Caged 4 Tier Small Shelf -High Value
